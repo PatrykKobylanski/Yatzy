@@ -15,7 +15,7 @@ git clone https://github.com/PatrykKobylanski/Yatzy [Directory where you want to
 cd [Directory where you want to clone]
 python.exe yatzy.py
 
-⚠️ All you need to run this game is a Python environment (Optional option is a Git for faster download)⚠️
+⚠️ All you need to run this game is a Python environment ⚠️
 ```
 
 ## 📖 How to play & rules
