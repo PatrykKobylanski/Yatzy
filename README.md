@@ -20,3 +20,7 @@ python.exe yatzy.py
 
 ## 📖 How to play & rules
 
+```
+input methods and rules
+```
+
