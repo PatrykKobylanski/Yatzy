@@ -24,3 +24,9 @@ python.exe yatzy.py
 input methods and rules
 ```
 
+## 📷 Game preview
+
+```
+
+```
+
