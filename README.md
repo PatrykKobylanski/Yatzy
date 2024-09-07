@@ -38,6 +38,8 @@ Key Combinations:
 - Large Straight (sequence of 5 dice): 40 points
 Players aim to fill their scorecard strategically to maximize points.
 
+⚠️<b>During a round, a given die can be exchanged only once</b>⚠️
+
 <h3>How to play</h3>
 
 During a round, you can roll the dice three times. The first roll is made for the player, but for the next two rolls, the player can decide which dice they want to roll.
