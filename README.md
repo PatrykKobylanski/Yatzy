@@ -7,6 +7,7 @@ I created a console-based **Yatzy** dice.
 
 The objective of the game is for players to roll five dice and score points by forming specific combinations. Following the classic Yatzy rules, players must carefully choose which dice to keep and which to reroll in order to maximize their score over the course of multiple rounds. The key to success lies in strategic decision-making and optimizing each roll to achieve the highest-scoring combinations
 
+
 ## 📦 Instalation
 
 
@@ -37,6 +38,7 @@ Players aim to fill their scorecard strategically to maximize points.
 ## 📷 Game preview
 
 ```
+![game_pv](https://github.com/user-attachments/assets/ad92a7c1-5287-4b1c-b760-2bc969c18d12)
 
 ```
 
