@@ -21,7 +21,17 @@ python.exe yatzy.py
 ## 📖 How to play & rules
 
 ```
-input methods and rules
+How to Play:
+1. Game Setup: Each player takes turns rolling five dice up to three times per turn.
+2. Turn: On each turn, a player can roll the dice, choose which to keep, and re-roll the others. After three rolls (or sooner if desired), they must select a combination to score.
+3. Scorecard: Players fill out a scorecard with different categories, like "Three of a Kind," "Four of a Kind," "Full House," "Small Straight," "Large Straight," "Yatzy" (all five dice the same), and "Chance" (any combination).
+4 .Winning: After all rounds, the player with the highest total score wins.
+Key Combinations:
+- Yatzy (5 of a kind): 50 points
+- Full House (3 of a kind + pair): 25 points
+- Small Straight (sequence of 4 dice): 30 points
+- Large Straight (sequence of 5 dice): 40 points
+Players aim to fill their scorecard strategically to maximize points.
 ```
 
 ## 📷 Game preview
