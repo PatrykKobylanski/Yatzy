@@ -40,7 +40,11 @@ Players aim to fill their scorecard strategically to maximize points.
 
 <h3>How to play</h3>
 
-chuj
+During a round, you can roll the dice three times. The first roll is made for the player, but for the next two rolls, the player can decide which dice they want to roll.
+
+<h5>Player's drawing method</h5>
+
+
 
 ## 📷 Game preview
 
