@@ -114,7 +114,7 @@ def roll_dices(ammount_of_players, player, round, rolled_dices, chances):
         display_dices(rolled_dices)
     
     if  chances > 0 and chances <= 2:    
-        which_to_change = str(input("Which dice/dices do you want to change('2', '2,3,5', 'all'[1-5]): "))
+        which_to_change = str(input("Which dice/dices do you want to change('2', '2,3,5', 'all'): "))
 
         # change all
         if which_to_change =="all":
