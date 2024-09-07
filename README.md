@@ -44,9 +44,14 @@ During a round, you can roll the dice three times. The first roll is made for th
 
 <h5>Player's drawing method</h5>
 
+<img src="https://github.com/user-attachments/assets/5625c404-53f4-4daa-af68-9521297b3956"  alt="Opis obrazka" width="50%">
 
+- The exchange of a single die is done by selecting a number from <b>1 to 5</b>
+- If we are exchanging more than one die, specify which dice you want to exchange by listing them with commas, <b>e.g. 2, 3, 4</b>
+- If we are exchanging all the dice, write <b>'all'</b>
 
 ## 📷 Game preview
+
 
 <h4>Solo mode</h4>
 <img src="https://github.com/user-attachments/assets/da01a4ff-c2cd-4ddf-87f3-ebf6dfd259f8"  alt="Opis obrazka" width="50%">  
