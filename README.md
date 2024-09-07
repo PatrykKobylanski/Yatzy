@@ -37,8 +37,13 @@ Players aim to fill their scorecard strategically to maximize points.
 
 ## 📷 Game preview
 
-```
-![game_pv](https://github.com/user-attachments/assets/ad92a7c1-5287-4b1c-b760-2bc969c18d12)
 
-```
+<img src="https://github.com/user-attachments/assets/ad92a7c1-5287-4b1c-b760-2bc969c18d12" alt="Opis obrazka" width="100%">
+<img src="https://github.com/user-attachments/assets/da01a4ff-c2cd-4ddf-87f3-ebf6dfd259f8" alt="Opis obrazka" width="100%">
+
+
+
+
+
+
 
